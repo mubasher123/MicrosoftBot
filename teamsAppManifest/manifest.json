@@ -1,0 +1,41 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.5/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.5",
+  "version": "1.0.0",
+  "id": "7cb904bb-b6ad-4b62-99bf-811db6720e61",
+  "packageName": "com.teams.sample.octek",
+  "developer": {
+    "name": "Octek-Bot",
+    "websiteUrl": "https://www.microsoft.com",
+    "privacyUrl": "https://www.teams.com/privacy",
+    "termsOfUseUrl": "https://www.teams.com/termsofuser"
+  },
+  "icons": {
+    "outline": "icon-outline.png",
+    "color": "icon-color.png"
+  },
+  "name": {
+    "short": "octek",
+    "full": "octek"
+  },
+  "description": {
+    "short": "octek",
+    "full": "octek"
+  },
+  "accentColor": "#FFFFFF",
+  "bots": [
+    {
+      "botId": "7cb904bb-b6ad-4b62-99bf-811db6720e61",
+      "scopes": [
+        "team"
+      ],
+      "supportsFiles": false,
+      "isNotificationOnly": false
+    }
+  ],
+  "permissions": [
+    "identity",
+    "messageTeamMembers"
+  ],
+  "validDomains": []
+}

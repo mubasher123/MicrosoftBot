@@ -1,0 +1,14 @@
+#Ignore the node modules folder
+node_modules/
+
+#Ignore the enviroment file
+.env
+
+#Ignore the web or php storm folder
+.idea/
+
+#Ignore the DS_Store file
+.DS_Store
+
+#ignore package-lock json file
+package-lock.json
