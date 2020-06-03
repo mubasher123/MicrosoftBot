@@ -1,5 +1,5 @@
 
-# Teams - Start new thread in a channel And Rely (Proactive Messaging)
+# Teams - Start new thread in a channel And sends Reply to a thread (Proactive Messaging)
 
 
 ## To try this sample
@@ -8,7 +8,7 @@
 1) Clone the repository
 
     ```bash
-    git clone https://github.com/Octek/microsoft_bot.git
+    git clone https://github.com/mubasher123/MicrosoftBot.git
     ```
 
 1) In a terminal, navigate to project directory
